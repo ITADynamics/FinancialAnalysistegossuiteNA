@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Financial Analysis for tegossuiteNA
+description: Docs for Financial Analysis for tegossuiteNA PowerBI App!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://itadynamics.github.io/FinancialAnalysistegossuiteNA/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://itadynamics.github.io/FinancialAnalysistegossuiteNA/
+
+logo: "/assets/images/Financial Analysis for tegossuiteNA.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+search_enabled: true
+#color_scheme: dark ->light is default
