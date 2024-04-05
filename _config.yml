@@ -3,11 +3,11 @@ description: Docs for Financial Analysis for tegossuiteNA PowerBI App!
 theme: just-the-docs
 
 url: https://itadynamics.github.io/FinancialAnalysistegossuiteNA/
-
+email: support@itadynamics.com
 aux_links:
   Template Repository: https://itadynamics.github.io/FinancialAnalysistegossuiteNA/
 
-logo: "/assets/images/Financial Analysis for tegossuiteNA.png"
+#logo: "/assets/images/Financial Analysis for tegossuiteNA.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 search_enabled: true
