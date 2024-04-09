@@ -4,6 +4,6 @@ title: Release
 nav_order: 10
 ---
 
-Release and Version History
+# Release and Version History
 
 ---

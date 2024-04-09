@@ -12,7 +12,7 @@ nav_order: 5
 
 4. Sign in window will appear, use your credentials and login. 
 
-5.	The report will undergo a refresh, and the warning window will disappear. At this point, your report is seamlessly connected to your environment's data. ![Report Page](./assets/images/report-with-data.png)
+5.	The report will undergo a refresh, and the warning window will disappear. At this point, your report is seamlessly connected to your environment's data. ![Report Page](./assets/images/navigation-financial-analysis.png)
 
 
 ---
